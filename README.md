@@ -9,6 +9,7 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 
 - [AiAssistWorks](#aiassistworks)
 - [Aider](#aider)
+- [Aventura](#aventura)
 - [BoltAI](#boltai)
 - [Chorus](#chorus)
 - [GitHub Copilot](#github-copilot)
@@ -43,6 +44,18 @@ AI pair programming in your terminal that lets you work with LLMs to build on yo
 `coding` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/Aider-AI/aider)
 
 [Documentation](https://aider.chat/docs/llms/openrouter.html)
+
+---
+
+### [Aventura](https://aventura.camp)
+
+<img src="./apps/aventura/logo.png" alt="Aventura logo" width="64" height="64">
+
+A free, open source AI adventure and creative writing app
+
+`creative` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/unkarelian/Aventura)
+
+[Documentation](https://aventura.camp/setup/)
 
 ---
 
