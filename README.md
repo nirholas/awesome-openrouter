@@ -14,6 +14,7 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 - [LibreChat](#librechat)
 - [Mastra](#mastra)
 - [Novelcrafter](#novelcrafter)
+- [Ottex](#ottex)
 - [Roo Code](#roo-code)
 - [SillyTavern](#sillytavern)
 
