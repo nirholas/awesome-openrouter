@@ -1,7 +1,7 @@
 name: "Aventura"
 description: "A free, open source AI adventure and creative writing app"
-url: "aventura.camp"
-docs: "http://aventura.camp/setup/"  
+url: "https://aventura.camp"
+docs: "https://aventura.camp/setup/"  
 tags:
   - creative  
 open_source: "https://github.com/unkarelian/Aventura"  
