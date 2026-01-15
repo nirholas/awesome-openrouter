@@ -37,6 +37,7 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 - [nanocode](#nanocode)
 - [Novelcrafter](#novelcrafter)
 - [Ottex](#ottex)
+- [Quests](#quests)
 - [Roo Code](#roo-code)
 - [SillyTavern](#sillytavern)
 - [Stirrup](#stirrup)
@@ -198,6 +199,18 @@ WisprFlow + Raycast AI shortcuts but with OpenRouter BYOK. Dictate emails, Slack
 `productivity`
 
 [Documentation](https://ottex.ai/docs)
+
+---
+
+### [Quests](https://quests.dev)
+
+<img src="./apps/quests/logo.png" alt="Quests logo" width="64" height="64">
+
+The open-source app builder.
+
+`chat` `coding` `productivity` `creative` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/quests-org/quests)
+
+[Documentation](https://quests.dev/providers/openrouter)
 
 ---
 
