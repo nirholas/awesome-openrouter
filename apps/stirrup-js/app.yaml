@@ -1,0 +1,7 @@
+name: "StirrupJS"
+description: "A lightweight framework for building agents in TypeScript/JavaScript. Bring your own OpenRouter key and use `ChatCompletionsClient` to build your own agents with any model."
+url: "https://github.com/ArtificialAnalysis/StirrupJS"
+docs: "https://stirrupjs.artificialanalysis.ai/"
+tags:
+  - productivity
+date_added: "2026-01-15"
