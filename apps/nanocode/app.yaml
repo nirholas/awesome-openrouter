@@ -1,0 +1,8 @@
+name: "nanocode"
+description: "Minimal Claude Code alternative. Single Python file, zero dependencies, ~250 lines. Full agentic coding loop with tools for read, write, edit, glob, grep, and bash."
+url: "https://github.com/1rgs/nanocode"
+docs: "https://github.com/1rgs/nanocode#openrouter"
+tags:
+  - coding
+open_source: "https://github.com/1rgs/nanocode"
+date_added: "2026-01-14"
