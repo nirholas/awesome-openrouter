@@ -20,6 +20,8 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 - [Ottex](#ottex)
 - [Roo Code](#roo-code)
 - [SillyTavern](#sillytavern)
+- [Stirrup](#stirrup)
+- [StirrupJS](#stirrupjs)
 
 ## Apps
 
@@ -176,6 +178,30 @@ A local-first LLM frontend for power users, supporting chat, character cards, an
 `chat` `creative` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/SillyTavern/SillyTavern)
 
 [Documentation](https://docs.sillytavern.app/usage/api-connections/openrouter/)
+
+---
+
+### [Stirrup](https://github.com/ArtificialAnalysis/Stirrup)
+
+<img src="./apps/stirrup/logo.png" alt="Stirrup logo" width="64" height="64">
+
+A lightweight framework for building agents. Bring your own OpenRouter key and use `ChatCompletionsClient` to build your own agents with any model.
+
+`productivity`
+
+[Documentation](https://stirrup.artificialanalysis.ai/)
+
+---
+
+### [StirrupJS](https://github.com/ArtificialAnalysis/StirrupJS)
+
+<img src="./apps/stirrup-js/logo.png" alt="StirrupJS logo" width="64" height="64">
+
+A lightweight framework for building agents in TypeScript/JavaScript. Bring your own OpenRouter key and use `ChatCompletionsClient` to build your own agents with any model.
+
+`productivity`
+
+[Documentation](https://stirrupjs.artificialanalysis.ai/)
 
 ---
 
