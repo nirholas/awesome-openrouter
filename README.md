@@ -29,6 +29,7 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 - [Autohand Code CLI](#autohand-code-cli)
 - [Aventura](#aventura)
 - [BoltAI](#boltai)
+- [Chatbox](#chatbox)
 - [Chorus](#chorus)
 - [GitHub Copilot](#github-copilot)
 - [Kilo Code](#kilo-code)
@@ -103,6 +104,18 @@ The best AI app for Mac. Instantly switch between 300+ AI models, from a single 
 `chat`
 
 [Documentation](https://help.boltai.com/articles/2327851-how-to-use-openrouter-in-boltai)
+
+---
+
+### [Chatbox](https://chatboxai.app)
+
+<img src="./apps/chatbox/logo.png" alt="Chatbox logo" width="64" height="64">
+
+Your Ultimate AI Copilot on the Desktop. Chatbox is a desktop client for ChatGPT, Claude and other LLMs, available on Windows, Mac, Linux, iOS, and Android.
+
+`chat` `coding` `productivity` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/chatboxai/chatbox)
+
+[Documentation](https://docs.chatboxai.app/en/guides/providers/openrouter)
 
 ---
 
