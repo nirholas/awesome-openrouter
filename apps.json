@@ -1,0 +1,291 @@
+[
+  {
+    "slug": "aiassistworks",
+    "name": "AiAssistWorks",
+    "description": "AI for Google Sheets™, Slides™ & Docs™. Fill, clean, and categorize 100k+ rows with simple text commands—no complex formulas needed. Create charts, pivot tables, and write content using 100+ AI models.",
+    "url": "https://www.aiassistworks.com/",
+    "docs": "https://support.aiassistworks.com/kb/article/8/setting-up-openrouter-api-key",
+    "tags": [
+      "productivity",
+      "creative"
+    ],
+    "openSource": null,
+    "dateAdded": "2026-01-15"
+  },
+  {
+    "slug": "aider",
+    "name": "Aider",
+    "description": "AI pair programming in your terminal that lets you work with LLMs to build on your existing codebase.",
+    "url": "https://aider.chat",
+    "docs": "https://aider.chat/docs/llms/openrouter.html",
+    "tags": [
+      "coding"
+    ],
+    "openSource": "https://github.com/Aider-AI/aider",
+    "dateAdded": "2026-01-13"
+  },
+  {
+    "slug": "analystos",
+    "name": "analystOS",
+    "description": "Web UI for AI-powered research + optional Notion automation. Upload docs, scrape URLs, chat with research via RAG. Connect Notion for zero-touch automated reports. 50+ OpenRouter models.",
+    "url": "https://github.com/sheeki03/analystOS",
+    "docs": "https://github.com/sheeki03/analystOS#readme",
+    "tags": [
+      "research",
+      "productivity"
+    ],
+    "openSource": "https://github.com/sheeki03/analystOS",
+    "dateAdded": "2025-01-15"
+  },
+  {
+    "slug": "autohand",
+    "name": "Autohand Code CLI",
+    "description": "The world fastest open code cli agent",
+    "url": "https://www.autohand.ai/cli",
+    "docs": "https://autohand.ai/docs/integrations/openrouter",
+    "tags": [
+      "coding",
+      "chat",
+      "research"
+    ],
+    "openSource": "https://github.com/autohandai/code-cli",
+    "dateAdded": "2026-01-15"
+  },
+  {
+    "slug": "aventura",
+    "name": "Aventura",
+    "description": "A free, open source AI adventure and creative writing app",
+    "url": "https://aventura.camp",
+    "docs": "https://aventura.camp/setup/",
+    "tags": [
+      "creative"
+    ],
+    "openSource": "https://github.com/unkarelian/Aventura",
+    "dateAdded": "2025-01-14"
+  },
+  {
+    "slug": "boltai",
+    "name": "BoltAI",
+    "description": "The best AI app for Mac. Instantly switch between 300+ AI models, from a single native app.",
+    "url": "https://boltai.com",
+    "docs": "https://help.boltai.com/articles/2327851-how-to-use-openrouter-in-boltai",
+    "tags": [
+      "chat"
+    ],
+    "openSource": null,
+    "dateAdded": "2026-01-15"
+  },
+  {
+    "slug": "chatbox",
+    "name": "Chatbox",
+    "description": "Your Ultimate AI Copilot on the Desktop. Chatbox is a desktop client for ChatGPT, Claude and other LLMs, available on Windows, Mac, Linux, iOS, and Android.",
+    "url": "https://chatboxai.app",
+    "docs": "https://docs.chatboxai.app/en/guides/providers/openrouter",
+    "tags": [
+      "chat",
+      "coding",
+      "productivity"
+    ],
+    "openSource": "https://github.com/chatboxai/chatbox",
+    "dateAdded": "2026-01-15"
+  },
+  {
+    "slug": "chatlima",
+    "name": "ChatLima",
+    "description": "Feature-rich MCP-powered AI chatbot with multi-model support, image input, PDF export, and comprehensive API key management for OpenRouter",
+    "url": "https://www.chatlima.com",
+    "docs": "https://www.chatlima.com/faq",
+    "tags": [
+      "chat",
+      "productivity"
+    ],
+    "openSource": "https://github.com/brooksy4503/chatlima",
+    "dateAdded": "2025-01-15"
+  },
+  {
+    "slug": "chorus",
+    "name": "Chorus",
+    "description": "A macOS desktop app that provides unified access to multiple AI models and services. All the AI, on your Mac.",
+    "url": "https://github.com/meltylabs/chorus",
+    "docs": "https://github.com/meltylabs/chorus#readme",
+    "tags": [
+      "chat"
+    ],
+    "openSource": "https://github.com/meltylabs/chorus",
+    "dateAdded": "2025-01-13"
+  },
+  {
+    "slug": "github-copilot",
+    "name": "GitHub Copilot",
+    "description": "Bring your own OpenRouter key to VS Code and GitHub Copilot to use Agent mode with any model.",
+    "url": "https://github.com/features/copilot",
+    "docs": "https://code.visualstudio.com/docs/copilot/language-models#_bring-your-own-language-model-key",
+    "tags": [
+      "coding"
+    ],
+    "openSource": null,
+    "dateAdded": "2026-01-13"
+  },
+  {
+    "slug": "kilocode",
+    "name": "Kilo Code",
+    "description": "An AI-powered coding assistant for VS Code that supports multiple AI providers and models.",
+    "url": "https://kilo.ai",
+    "docs": "https://kilo.ai/docs/providers/openrouter",
+    "tags": [
+      "coding"
+    ],
+    "openSource": "https://github.com/Kilo-Org/kilocode",
+    "dateAdded": "2025-01-08"
+  },
+  {
+    "slug": "librechat",
+    "name": "LibreChat",
+    "description": "An open-source chat application for all your AI conversations, compatible with any AI provider.",
+    "url": "https://www.librechat.ai",
+    "docs": "https://www.librechat.ai/docs/configuration/librechat_yaml/ai_endpoints/openrouter",
+    "tags": [
+      "chat"
+    ],
+    "openSource": "https://github.com/danny-avila/LibreChat",
+    "dateAdded": "2026-01-13"
+  },
+  {
+    "slug": "mastra",
+    "name": "Mastra",
+    "description": "An open-source TypeScript framework for building AI-powered applications and agents.",
+    "url": "https://mastra.ai",
+    "docs": "https://mastra.ai/docs/frameworks/agentic-uis/openrouter",
+    "tags": [
+      "coding"
+    ],
+    "openSource": "https://github.com/mastra-ai/mastra",
+    "dateAdded": "2026-01-13"
+  },
+  {
+    "slug": "nanocode",
+    "name": "nanocode",
+    "description": "Minimal Claude Code alternative. Single Python file, zero dependencies, ~250 lines. Full agentic coding loop with tools for read, write, edit, glob, grep, and bash.",
+    "url": "https://github.com/1rgs/nanocode",
+    "docs": "https://github.com/1rgs/nanocode#openrouter",
+    "tags": [
+      "coding"
+    ],
+    "openSource": "https://github.com/1rgs/nanocode",
+    "dateAdded": "2026-01-14"
+  },
+  {
+    "slug": "novelcrafter",
+    "name": "Novelcrafter",
+    "description": "Your all-in-one writing workspace that blends a powerful world-building wiki called Codex with flexible, model-agnostic AI assistance to help authors plan, draft, and finish their novels with complete creative control.",
+    "url": "https://www.novelcrafter.com",
+    "docs": "https://www.novelcrafter.com/help/docs/ai-connections/openrouter",
+    "tags": [
+      "chat",
+      "creative",
+      "productivity"
+    ],
+    "openSource": null,
+    "dateAdded": "2025-01-13"
+  },
+  {
+    "slug": "ottex",
+    "name": "Ottex",
+    "description": "WisprFlow + Raycast AI shortcuts but with OpenRouter BYOK. Dictate emails, Slack messages, Claude Code prompts and more. Auto-formats based on the app you're working with.",
+    "url": "https://ottex.ai",
+    "docs": "https://ottex.ai/docs",
+    "tags": [
+      "productivity"
+    ],
+    "openSource": null,
+    "dateAdded": "2026-01-14"
+  },
+  {
+    "slug": "quests",
+    "name": "Quests",
+    "description": "The open-source app builder.",
+    "url": "https://quests.dev",
+    "docs": "https://quests.dev/providers/openrouter",
+    "tags": [
+      "chat",
+      "coding",
+      "productivity",
+      "creative"
+    ],
+    "openSource": "https://github.com/quests-org/quests",
+    "dateAdded": "2026-01-15"
+  },
+  {
+    "slug": "roo-code",
+    "name": "Roo Code",
+    "description": "An AI-powered autonomous coding agent that lives in your editor.",
+    "url": "https://roocode.com",
+    "docs": "https://docs.roocode.com/providers/openrouter",
+    "tags": [
+      "coding"
+    ],
+    "openSource": "https://github.com/RooCodeInc/Roo-Code",
+    "dateAdded": "2026-01-13"
+  },
+  {
+    "slug": "sillytavern",
+    "name": "SillyTavern",
+    "description": "A local-first LLM frontend for power users, supporting chat, character cards, and multiple AI providers.",
+    "url": "https://sillytavern.app",
+    "docs": "https://docs.sillytavern.app/usage/api-connections/openrouter/",
+    "tags": [
+      "chat",
+      "creative"
+    ],
+    "openSource": "https://github.com/SillyTavern/SillyTavern",
+    "dateAdded": "2025-01-08"
+  },
+  {
+    "slug": "stirrup",
+    "name": "Stirrup",
+    "description": "A lightweight framework for building agents. Bring your own OpenRouter key and use `ChatCompletionsClient` to build your own agents with any model.",
+    "url": "https://github.com/ArtificialAnalysis/Stirrup",
+    "docs": "https://stirrup.artificialanalysis.ai/",
+    "tags": [
+      "productivity"
+    ],
+    "openSource": "https://github.com/ArtificialAnalysis/Stirrup",
+    "dateAdded": "2026-01-15"
+  },
+  {
+    "slug": "stirrup-js",
+    "name": "StirrupJS",
+    "description": "A lightweight framework for building agents in TypeScript/JavaScript. Bring your own OpenRouter key and use `ChatCompletionsClient` to build your own agents with any model.",
+    "url": "https://github.com/ArtificialAnalysis/StirrupJS",
+    "docs": "https://stirrupjs.artificialanalysis.ai/",
+    "tags": [
+      "productivity"
+    ],
+    "openSource": "https://github.com/ArtificialAnalysis/StirrupJS",
+    "dateAdded": "2026-01-15"
+  },
+  {
+    "slug": "vtcode",
+    "name": "VT Code",
+    "description": "Semantic coding agent in the terminal",
+    "url": "https://github.com/vinhnx/vtcode",
+    "docs": "https://github.com/vinhnx/vtcode/blob/main/docs/providers/openrouter.md",
+    "tags": [
+      "coding"
+    ],
+    "openSource": "https://github.com/vinhnx/vtcode",
+    "dateAdded": "2024-01-17"
+  },
+  {
+    "slug": "warden",
+    "name": "Warden",
+    "description": "A Native Swift MacOS app that that supports multiple AI providers and models using your own API keys.",
+    "url": "https://karatsidhu.gumroad.com/l/warden",
+    "docs": "https://github.com/SidhuK/WardenApp/blob/main/Setup.MD",
+    "tags": [
+      "chat"
+    ],
+    "openSource": "https://github.com/SidhuK/WardenApp",
+    "dateAdded": "2025-01-14"
+  }
+]

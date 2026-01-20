@@ -6,6 +6,7 @@ const yaml = require('js-yaml');
 
 const APPS_DIR = path.join(__dirname, '..', 'apps');
 const README_PATH = path.join(__dirname, '..', 'README.md');
+const APPS_JSON_PATH = path.join(__dirname, '..', 'apps.json');
 
 function loadApps() {
   const apps = [];
@@ -135,6 +136,20 @@ function main() {
 
   fs.writeFileSync(README_PATH, readme);
   console.log(`README.md generated with ${apps.length} app(s)`);
+
+  // Generate apps.json for openrouter.ai/awesome consumption
+  const appsJson = apps.map(app => ({
+    slug: app._slug,
+    name: app.name,
+    description: app.description,
+    url: app.url,
+    docs: app.docs,
+    tags: app.tags,
+    openSource: app.open_source || null,
+    dateAdded: app.date_added,
+  }));
+  fs.writeFileSync(APPS_JSON_PATH, JSON.stringify(appsJson, null, 2));
+  console.log('apps.json generated');
 }
 
 main();
