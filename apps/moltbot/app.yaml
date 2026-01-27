@@ -1,0 +1,8 @@
+name: "Moltbot"
+description: "A personal AI assistant you run on your own devices. Connects to WhatsApp, Telegram, Discord, Slack, and 50+ other services with persistent memory and extensible capabilities."
+url: "https://clawd.bot/"
+docs: "https://docs.molt.bot/providers/openrouter"
+tags:
+  - productivity
+open_source: "https://github.com/moltbot/moltbot"
+date_added: "2026-01-27"
