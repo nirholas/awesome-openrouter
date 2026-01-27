@@ -1,6 +1,8 @@
 # Contributing
 
-Want to add your app to the "Works with OpenRouter" list? Follow these steps:
+Want to add your app to the "Works with OpenRouter" list? Follow these steps!
+
+**This directory is published at [openrouter.ai/awesome](https://openrouter.ai/awesome)** — your submission gets a real backlink from a high-traffic AI site. Great for SEO and discoverability.
 
 ## Requirements
 
