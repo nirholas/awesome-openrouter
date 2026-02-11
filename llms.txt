@@ -1,0 +1,9 @@
+# awesome-openrouter
+
+> Awesome list of apps that work with OpenRouter. OpenRouter provides access to 300+ AI Models through a single API.
+
+## Links
+
+- Repository: https://github.com/nirholas/awesome-openrouter
+- Author: https://github.com/nirholas
+- Full documentation: https://raw.githubusercontent.com/nirholas/awesome-openrouter/main/llms-full.txt

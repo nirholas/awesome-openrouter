@@ -1,0 +1,16 @@
+{
+    "schema_version": "v1",
+    "name_for_human": "awesome-openrouter",
+    "name_for_model": "awesome_openrouter",
+    "description_for_human": "Awesome list of apps that work with OpenRouter. OpenRouter provides access to 300+ AI Models through a single API.",
+    "description_for_model": "Awesome list of apps that work with OpenRouter. OpenRouter provides access to 300+ AI Models through a single API.",
+    "auth": {
+        "type": "none"
+    },
+    "api": {
+        "type": "none"
+    },
+    "logo_url": "https://github.com/nirholas.png",
+    "contact_email": "nirholas@users.noreply.github.com",
+    "legal_info_url": "https://github.com/nirholas/awesome-openrouter/blob/main/LICENSE"
+}

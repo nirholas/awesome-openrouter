@@ -69,3 +69,7 @@ See [`apps/kilocode/`](apps/kilocode/) for a complete example.
 ## Questions?
 
 Open an issue if you have questions or need help with your submission.
+
+## Code of Conduct
+
+Please read and follow our [Code of Conduct](CODE_OF_CONDUCT.md).

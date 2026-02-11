@@ -1,0 +1,14 @@
+{
+    "name": "awesome-openrouter",
+    "description": "Awesome list of apps that work with OpenRouter. OpenRouter provides access to 300+ AI Models through a single API.",
+    "version": "1.0.0",
+    "publisher": "nirholas",
+    "repository": "https://github.com/nirholas/awesome-openrouter",
+    "language": "JavaScript",
+    "topics": [
+        "nirholas",
+        "open-source",
+        "openrouter",
+        "awesome"
+    ]
+}

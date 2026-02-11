@@ -1,0 +1,18 @@
+# awesome-openrouter
+
+> Awesome list of apps that work with OpenRouter. OpenRouter provides access to 300+ AI Models through a single API.
+
+## Overview
+
+awesome-openrouter is an open-source project by nirholas. Awesome list of apps that work with OpenRouter. OpenRouter provides access to 300+ AI Models through a single API.
+
+## Repository
+
+- URL: https://github.com/nirholas/awesome-openrouter
+- Language: JavaScript
+- License: MIT
+- Author: nirholas
+
+## Contributing
+
+Contributions are welcome. See CONTRIBUTING.md for guidelines.
