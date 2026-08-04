@@ -1,8 +1,7 @@
 {
   "name": "works-with-openrouter",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A curated list of apps that work with OpenRouter",
-  "private": true,
   "scripts": {
     "generate": "node scripts/generate-readme.js",
     "validate": "node scripts/validate.js"
