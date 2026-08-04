@@ -1,6 +1,6 @@
 {
   "name": "works-with-openrouter",
-  "version": "1.0.2",
+  "version": "1.0.1",
   "description": "A curated list of apps that work with OpenRouter",
   "scripts": {
     "generate": "node scripts/generate-readme.js",
@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/nirholas/awesome-openrouter/issues"
   },
-  "homepage": "https://github.com/nirholas/awesome-openrouter#readme"
+  "homepage": "https://github.com/nirholas/awesome-openrouter#readme",
+  "private": true
 }
